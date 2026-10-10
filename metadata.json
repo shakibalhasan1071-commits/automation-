@@ -1,0 +1,6 @@
+{
+  "name": "Muse Browser Automation",
+  "description": "Mobile browser automation tool for muse.ai",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
